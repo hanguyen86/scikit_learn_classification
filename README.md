@@ -147,4 +147,3 @@ pip install -r requirements.txt
  |Neural Network|94.43%|
  |Extra Trees|94.65%|
 
- * With the highest precision on `Evaluation` dataset, I chose the best model from `Extra Trees` as my classifier for the test dataset, and save results to `fingersense-test-labels.csv` file.

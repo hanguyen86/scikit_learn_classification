@@ -1,5 +1,4 @@
 """
-Qeexo Machine Learning Coding Challenge
 Author : Hoang Anh Nguyen
 Email  : n.h.a.1986@gmail.com
 Licence: BSD
